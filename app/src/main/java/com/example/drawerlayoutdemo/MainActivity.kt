@@ -83,6 +83,7 @@ class MainActivity : AppCompatActivity() {
         } else super.onOptionsItemSelected(item)
         // Handle your other action bar items...
     }
+
     private fun showDialog(){
         val dialog = Dialog(this)
         dialog.requestWindowFeature(Window.FEATURE_NO_TITLE)
