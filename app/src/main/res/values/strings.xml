@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DrawerLayoutDemo</string>
+    <string name="menu_item_title1">Item 1</string>
+    <string name="menu_item_title2">Item 2</string>
+    <string name="menu_item_title3">Item 3</string>
+    <string name="menu_item_search">Item search</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
 </resources>
